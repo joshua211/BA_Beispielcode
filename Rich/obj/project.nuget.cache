@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDXvqNJQ1vxHnnb4KQEwkP7MAy2oS21ZnNhhTcSBFj/4TtL9sUJ6BXpdVlmUZ5+6/xjMdjyGWZTT50+2hfwCSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hillmann\\Dropbox\\Uni\\Bachelorarbeit\\BeispielProjekt\\Rich\\Beispielprojekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hillmann\\.nuget\\packages\\erroror\\0.2.0\\erroror.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
